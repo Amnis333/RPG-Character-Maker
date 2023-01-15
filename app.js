@@ -1,4 +1,3 @@
-// ここから書いてください
 var vm = new Vue({
     el: '#app',
     data: {
